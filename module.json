@@ -1,7 +1,7 @@
 {
   "id": "the-stargazer",
   "title": "The Stargazer",
-  "version": "#{VERSION}#",
+  "version": "1.1",
   "library": "false",
   "compatibility": {
     "minimum": "13",
@@ -43,9 +43,9 @@
   "esmodules": [
       "scripts/module.js"
   ],
-  "url": "#{URL}#",
-  "manifest": "#{MANIFEST}#",
-  "download": "#{DOWNLOAD}#",
+  "url": "https://github.com/TheFoxFellow/PF2e-The-Stargazer",
+  "manifest": "https://github.com/TheFoxFellow/PF2e-The-Stargazer/releases/latest/download/module.json",
+  "download": "https://github.com/TheFoxFellow/PF2e-The-Stargazer/releases/download/v1.1/module.zip",
   "license": "LICENSE",
   "readme": "https://scribe.pf2.tools/v/BVWb2PO0-stargazer-wip-copy"
 }
