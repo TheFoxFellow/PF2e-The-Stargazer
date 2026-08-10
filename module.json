@@ -1,0 +1,51 @@
+{
+  "id": "the-stargazer",
+  "title": "The Stargazer",
+  "version": "1.1",
+  "library": "false",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "flags": {
+    "the-stargazer": {
+      "pf2e-homebrew": {
+        "featTraits": {
+          "stargazer": "Stargazer"
+        },
+        "spellTraits": {
+          "flourish": "Flourish",
+          "resonant": "Resonant",
+          "sidereal": "Sidereal",
+          "stargazer": "Stargazer"
+        }
+      }
+    }
+  },
+  "description": "There is power to be obtained from the heavens. Using starlight to your advantage, you channel that same power to fuel your abilities and guide your path. With every new constellation, your understanding of the cosmos grows–as does your power over it.",
+  "authors": [
+    {
+      "name": "The_Fox_Fellow",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "the-stargazer",
+      "label": "The Stargazer",
+      "path": "packs/the-stargazer",
+      "type": "Item",
+      "system": "pf2e",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+      "scripts/module.js"
+  ],
+  "url": "https://github.com/TheFoxFellow/PF2e-The-Stargazer",
+  "manifest": "https://github.com/TheFoxFellow/PF2e-The-Stargazer/releases/latest/download/module.json",
+  "download": "https://github.com/TheFoxFellow/PF2e-The-Stargazer/releases/download/v1.1/module.zip",
+  "license": "LICENSE",
+  "readme": "https://scribe.pf2.tools/v/BVWb2PO0-stargazer-wip-copy"
+}
