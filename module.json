@@ -1,7 +1,7 @@
 {
   "id": "the-stargazer",
   "title": "The Stargazer",
-  "version": "#{VERSION}#",
+  "version": "2.0",
   "library": "false",
   "compatibility": {
     "minimum": "14",
